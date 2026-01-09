@@ -38,7 +38,7 @@ Prerequisites
 
 - Code editor (VS Code recommended)
 
-git clone https://github.com/daialkn08/roza-rasul.git
+- git clone https://github.com/daialkn08/roza-rasul.git
 
 # Project Structure
 
