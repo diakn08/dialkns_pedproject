@@ -19,16 +19,16 @@ The project focuses on clean design, user-friendly navigation, and responsivenes
 ---
 # Technologies Used
 
-## HTML5 – structure of the website
+HTML5 – structure of the website
 
-## CSS3 – styling and layout
+CSS3 – styling and layout
 
-## JavaScript – interactivity and dynamic elements
+JavaScript – interactivity and dynamic elements
 
 (Optional: add frameworks or libraries if you use them, e.g. React, Bootstrap, etc.)
 
 # Getting Started
----
+--
 #Getting Started
 Prerequisites
 
