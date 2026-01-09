@@ -20,11 +20,11 @@ Features
 ---
 Technologies Used
 
-HTML5 – structure of the website
+## HTML5 – structure of the website
 
-CSS3 – styling and layout
+## CSS3 – styling and layout
 
-JavaScript – interactivity and dynamic elements
+## JavaScript – interactivity and dynamic elements
 
 (Optional: add frameworks or libraries if you use them, e.g. React, Bootstrap, etc.)
 
@@ -33,11 +33,11 @@ Getting Started
 #Getting Started
 Prerequisites
 
-To run this project locally, you only need:
+- To run this project locally, you only need:
 
-A modern web browser (Chrome, Firefox, Edge, etc.)
+- A modern web browser (Chrome, Firefox, Edge, etc.)
 
-Code editor (VS Code recommended)
+- Code editor (VS Code recommended)
 
 git clone https://github.com/daialkn08/roza-rasul.git
 
@@ -68,13 +68,13 @@ This project was created for educational purposes and to demonstrate web develop
 
 # Future Improvements
 
-Add shopping cart functionality
+- Add shopping cart functionality
 
-Online payment integration
+- Online payment integration
 
-Order and delivery system
+- Order and delivery system
 
-Multilingual support
+- Multilingual support
 
 # Author
 
