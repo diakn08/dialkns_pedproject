@@ -44,13 +44,21 @@ git clone https://github.com/daialkn08/roza-rasul.git
 
 roza-rasul/
 │
+
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 ├── images/
+
 │   └── flowers/
+
 └── README.md
 ---
 # Purpose of the Project
