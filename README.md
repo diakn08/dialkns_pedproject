@@ -17,18 +17,6 @@ The project focuses on clean design, user-friendly navigation, and responsivenes
    
  - High-quality flower images
 ---
-# Technologies Used
-
-HTML5 – structure of the website
-
-CSS3 – styling and layout
-
-JavaScript – interactivity and dynamic elements
-
-(Optional: add frameworks or libraries if you use them, e.g. React, Bootstrap, etc.)
-
-# Getting Started
----
 #Getting Started
 Prerequisites
 
